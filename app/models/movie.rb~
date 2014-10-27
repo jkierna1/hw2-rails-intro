@@ -39,4 +39,5 @@ class Movie < ActiveRecord::Base
 
       setup
   end
+  
 end
